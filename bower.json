@@ -1,0 +1,25 @@
+{
+  "name": "angular-jsoneditor",
+  "version": "1.0.1",
+  "description": "Angular directive for displaying a JSON object in an expandable tree structure",
+  "main": [
+    "dist/angular-jsoneditor.js"
+  ],
+  "authors": [
+    "Paul Biester"
+  ],
+  "keywords": [
+    "angular",
+    "json"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.x"
+  }
+}
